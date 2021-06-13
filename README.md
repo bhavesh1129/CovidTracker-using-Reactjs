@@ -4,6 +4,10 @@
 
 In the project directory, you can run:
 
+### `npm install`
+
+Install all the required node modules by just typing the `npm install` command in your terminal.
+
 ### `npm start`
 
 Runs the app in the development mode.<br />
