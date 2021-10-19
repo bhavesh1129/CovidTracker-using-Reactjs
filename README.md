@@ -1,4 +1,5 @@
 # React COVID Tracker
+![React-Covid-Tracker](https://socialify.git.ci/bhavesh1129/CovidTracker-using-Reactjs/image?font=Inter&language=1&owner=1&pattern=Charlie%20Brown&theme=Dark)
 
 ## Available Scripts
 
