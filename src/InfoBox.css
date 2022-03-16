@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Tillana:wght@700&display=swap');
+.infoBox {
+    flex: 1;
+}
+
+.infoBox:not(:last-child) {
+    margin-right: 10px;
+}
+
+.infoBox--selected {
+    border-top: 10px solid greenyellow;
+}
+
+.infoBox--red {
+    border-color: red;
+}
+
+.infoBox__cases--green {
+    color: lightgreen !important;
+}
+
+.infoBox__cases {
+    color: #cc1034;
+    font-weight: 600;
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+.infoBox__total {
+    color: #6c757d;
+    font-family: 'Montserrat';
+    font-weight: 700 !important;
+    font-size: 0.8rem !important;
+    margin-top: 15px !important;
+}
