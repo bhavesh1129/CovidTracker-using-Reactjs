@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+.symptons {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.symptons__head {
+    /* color: #3c6382; */
+    font-size: 40px;
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 700;
+    margin: 4%;
+    margin-bottom: 0;
+}
+
+.symptons__img {
+    margin: 0%;
+}
+
+.symptons__img:hover {
+    transition: ease-in-out;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.sym-img {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
+.symptons__name {
+    font-family: "Montserrat";
+    font-weight: 600;
+    padding: 2%;
+}

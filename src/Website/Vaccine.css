@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+* {
+    margin: 0;
+}
+
+.vaccine__banner {
+    background-image: url('./22.jpg');
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.vaccine__head {
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 50px;
+    margin-top: 4%;
+}
+
+.vaccine__cont {
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    font-family: "Montserrat";
+    font-weight: 300;
+    padding: 1%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+
+.vaccine__img {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+}
+
+.vaccine__text {
+    text-align: left;
+    padding: 3%;
+    font-weight: 400;
+    font-size: 18px;
+}

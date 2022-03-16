@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&display=swap');
+.wearMasks {
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+    background-image: url('./q2.jpg');
+    padding: 20%;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.mask__head {
+    text-align: center;
+    font-family: "Montserrat";
+    font-weight: 700;
+    font-size: 40px;
+    margin-top: 4%;
+}

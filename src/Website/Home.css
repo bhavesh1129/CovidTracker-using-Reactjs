@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Tillana:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pangolin&display=swap');
+.home__nav {
+    font-family: 'Montserrat';
+    font-weight: 600;
+    box-shadow: 0 2px 3px -1px rgba(0, 0, 0, 0.1);
+}
+
+.home__img {
+    background-image: url(./1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+
+.home__img__h1 {
+    text-align: center;
+    font-size: 50px;
+    padding-top: 28%;
+    padding-bottom: 0;
+    font-family: "Tillana";
+    font-size: 70px;
+    color: rgb(54, 54, 54);
+    text-shadow: 2px 1px rgb(150, 147, 147);
+}
+
+.home__img__h2 {
+    text-align: center;
+    font-size: 6vh;
+    color: rgb(54, 54, 54);
+    padding-bottom: 1%;
+    font-weight: 800;
+    font-size: 40px;
+    font-family: "Pangolin";
+    text-shadow: 2px 1px rgb(150, 147, 147);
+}
+
+.home__img__button {
+    margin-left: 43%;
+    margin-bottom: 15%;
+    font-family: "Montserrat";
+    box-shadow: 2px 2px black;
+    text-decoration: none;
+}
+
+Link {
+    color: burlywood;
+}
